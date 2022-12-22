@@ -43,3 +43,5 @@
 | ------ | ------------------------ |
 | FB03   | Vedi documenti contabili |
 | ME22   | Lista ODA per fornitore  |
+| ME23N  | Vedi ODA                 |
+| CJI3   | Vedi fatture commessa    |
