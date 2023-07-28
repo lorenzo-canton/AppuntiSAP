@@ -27,15 +27,16 @@
 | SE93   | Crea transazione        |
 | SMW0   | Template                |
 | SE80   | Pacchetti               |
-| ST22   | Errori di sistema       |
 
 ### Amministrazione
 
-| Codice | Descrizione     |
-| ------ | --------------- |
-| SU01   | Gestisci utente |
-| SM12   | Vedi blocchi    |
-| SOST   | Gestisci email  |
+| Codice | Descrizione       |
+| ------ | ------------------|
+| SU01   | Gestisci utente   |
+| SM12   | Vedi blocchi      |
+| SOST   | Gestisci email    |
+| ST22   | Errori di sistema |
+| PFCG   | Ruoli transazione |
 
 ### Produzione
 
@@ -45,3 +46,4 @@
 | ME22   | Lista ODA per fornitore  |
 | ME23N  | Vedi ODA                 |
 | CJI3   | Vedi fatture commessa    |
+| CJ20N  | Crea WBS                 |
